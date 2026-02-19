@@ -15,4 +15,5 @@ function welcomeMessage() {
     document.getElementById('welcome-speech').innerHTML = `Hello, ${name}! Welcome to Yama Company.`;
 }
 
+// Form Validation Function (Placeholder)
 function validateForm() { }
